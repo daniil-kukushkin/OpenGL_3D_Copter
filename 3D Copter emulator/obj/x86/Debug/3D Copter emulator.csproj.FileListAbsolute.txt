@@ -1,0 +1,8 @@
+c:\users\даниил\documents\visual studio 2010\Projects\3D Copter emulator\3D Copter emulator\bin\Debug\3D Copter emulator.exe
+c:\users\даниил\documents\visual studio 2010\Projects\3D Copter emulator\3D Copter emulator\bin\Debug\3D Copter emulator.pdb
+c:\users\даниил\documents\visual studio 2010\Projects\3D Copter emulator\3D Copter emulator\obj\x86\Debug\3D Copter emulator.csprojResolveAssemblyReference.cache
+c:\users\даниил\documents\visual studio 2010\Projects\3D Copter emulator\3D Copter emulator\obj\x86\Debug\_3D_Copter_emulator.Form1.resources
+c:\users\даниил\documents\visual studio 2010\Projects\3D Copter emulator\3D Copter emulator\obj\x86\Debug\_3D_Copter_emulator.Properties.Resources.resources
+c:\users\даниил\documents\visual studio 2010\Projects\3D Copter emulator\3D Copter emulator\obj\x86\Debug\3D Copter emulator.csproj.GenerateResource.Cache
+c:\users\даниил\documents\visual studio 2010\Projects\3D Copter emulator\3D Copter emulator\obj\x86\Debug\3D Copter emulator.exe
+c:\users\даниил\documents\visual studio 2010\Projects\3D Copter emulator\3D Copter emulator\obj\x86\Debug\3D Copter emulator.pdb
